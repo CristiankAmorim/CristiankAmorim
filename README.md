@@ -17,4 +17,4 @@
 
 ### Repositório 🗃️
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CristiankAmorim&repo=Top10Filmes&bg_color=003&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/CristiankAmorim/Top10Filmes])
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CristiankAmorim&repo=controle-de-estoque&bg_color=003&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/CristiankAmorim/controle-de-estoque])
