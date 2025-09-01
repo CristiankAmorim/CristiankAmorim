@@ -2,8 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Estudante de Análise e Desenvolvimento de Sistemas, na Universidade Católica do Salvador (Ucsal). Atualmente estou cursando o terceiro semestre. Tenho como meta aprimorar meus conhecimentos em desenvolvimento de software, para resolver problemas através do mesmo. Sempre buscando conhecimento, através de cursos e projetos práticos, não ficando limitado apenas ao que é proposto na universidade.
----
+Estudante de Análise e Desenvolvimento de Sistemas, na Universidade Católica do Salvador (Ucsal). Atualmente estou cursando o terceiro semestre. Tenho como meta aprimorar meus conhecimentos em desenvolvimento de software, para resolver problemas através do mesmo.
 
 ### 🤖 Linguagens e Tecnologias
 
