@@ -1,20 +1,62 @@
 # Cristian Amorim
 
-### Conecte-se comigo 🤝
+**`Desenvolvedor Back-End`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-amorim-5057a4351/)
+Estudante de Análise e Desenvolvimento de Sistemas, na Universidade Católica do Salvador (Ucsal). Atualmente estou cursando o terceiro semestre. Tenho como meta aprimorar meus conhecimentos em desenvolvimento de software, para resolver problemas através do mesmo. Sempre buscando conhecimento, através de cursos e projetos práticos, não ficando limitado apenas ao que é proposto na universidade.
+---
 
-### Habilidades 💻
+### 🤖 Linguagens e Tecnologias
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
 
-### GitHub Stats 📊
+<br/>
+<br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristiankAmorim&theme=transparent&bg_color=003&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+### 📊 Estatísticas
 
-### Repositório 🗃️
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=CristiankAmorim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CristiankAmorim&repo=controle-de-estoque&bg_color=003&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/CristiankAmorim/controle-de-estoque])
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristiankAmorim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
