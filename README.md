@@ -38,6 +38,11 @@ Estudante de Análise e Desenvolvimento de Sistemas, na Universidade Católica d
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
+<img align="left" 
+    alt="Rafa-Python" 
+    height="30" 
+    width="30px" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 <br/>
 <br/>
