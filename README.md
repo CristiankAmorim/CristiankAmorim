@@ -5,47 +5,51 @@
 Estudante de Análise e Desenvolvimento de Sistemas, na Universidade Católica do Salvador (Ucsal). Atualmente estou cursando o terceiro semestre. Tenho como meta aprimorar meus conhecimentos em desenvolvimento de software, para resolver problemas através do mesmo.
 
 ### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 15px;" 
+<div style="display: inline_block"><br>
+    <img 
+        align="center" 
+        alt="HTML"
+        title="HTML" 
+        height="30px"
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    />
+    <img 
+        align="center" 
+        alt="CSS" 
+        title="CSS"
+        height="30px"
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    />
+    <img 
+        align="center" 
+        alt="JavaScript" 
+        title="JavaScript"
+        height="30px"
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+    <img 
+        align="center" 
+        alt="Java"
+        title="Java" 
+        height="30px"
+        width="40px" 
+        style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
-<img align="left" 
-    alt="Rafa-Python" 
-    height="30" 
-    width="30px" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<br/>
-<br/>
+    />
+    <img align="center" 
+        alt="Rafa-Python" 
+        height="30px" 
+        width="40px" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <br/>
+    <br/>
+</div>
 
 ### 📊 Estatísticas
 
