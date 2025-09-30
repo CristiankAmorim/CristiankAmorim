@@ -52,6 +52,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, na Universidade Católica d
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristiankAmorim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-three-coral-69.vercel.app/api?username=CristiankAmorim&show_icons=true&count_private=true&theme=algolia" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CristiankAmorim&layout=compact&langs_count=6&exclude_repo=credit-analysis-AI,service-cancellation-analysis&theme=algolia&cache_seconds=1800" height="150" alt="languages graph" />
 </div>
