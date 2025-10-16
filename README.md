@@ -37,16 +37,27 @@ Estudante de Análise e Desenvolvimento de Sistemas, na Universidade Católica d
         align="center" 
         alt="Java"
         title="Java" 
-        height="30px"
-        width="40px" 
+        height="40px"
+        width="50px" 
         style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
     />
-    <img align="center" 
+    <img 
+        align="center" 
         alt="Rafa-Python" 
-        height="30px" 
-        width="40px" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        height="40px" 
+        width="50px" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+        />
+    <img
+        align="center"
+        alt="postgre"
+        title="Postegre"
+        height="40px"
+        width="50px"
+        style="padding-right: 10px;"
+        src="https://raw.githubusercontent.com/cncf/landscape/8ad769b57362a887a3e1d5f346b7adc99793fa7b/hosted_logos/postgre-sql.svg"
+    />
     <br/>
     <br/>
 </div>
