@@ -44,17 +44,17 @@ Estudante de Análise e Desenvolvimento de Sistemas, na Universidade Católica d
     />
     <img 
         align="center" 
-        alt="Rafa-Python" 
-        height="40px" 
-        width="50px" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+        alt="Python" 
+        height="30px" 
+        width="40px" 
+        src="https://www.svgrepo.com/show/452091/python.svg"
         />
     <img
         align="center"
         alt="postgre"
         title="Postegre"
-        height="40px"
-        width="40px"
+        height="30px"
+        width="30px"
         style="padding-right: 10px;"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1163px-Postgresql_elephant.svg.png"
     />
