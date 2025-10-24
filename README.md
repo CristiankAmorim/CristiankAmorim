@@ -54,9 +54,9 @@ Estudante de Análise e Desenvolvimento de Sistemas, na Universidade Católica d
         alt="postgre"
         title="Postegre"
         height="40px"
-        width="50px"
+        width="40px"
         style="padding-right: 10px;"
-        src="https://raw.githubusercontent.com/cncf/landscape/8ad769b57362a887a3e1d5f346b7adc99793fa7b/hosted_logos/postgre-sql.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1163px-Postgresql_elephant.svg.png"
     />
     <br/>
     <br/>
