@@ -56,7 +56,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, na Universidade Católica d
         height="30px"
         width="30px"
         style="padding-right: 10px;"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1163px-Postgresql_elephant.svg.png"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png"
     />
     <br/>
     <br/>
