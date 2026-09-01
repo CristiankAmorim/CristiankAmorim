@@ -2,7 +2,7 @@
 
 ### <div align=center> **`Desenvolvedor Back-End`**</div>
 
-Estudante de Análise e Desenvolvimento de Sistemas, na Universidade Católica do Salvador (Ucsal). Atualmente estou cursando o quinto semestre. Tenho como meta aprimorar meus conhecimentos em desenvolvimento de software, para resolver problemas através do mesmo.
+Estudante de Análise e Desenvolvimento de Sistemas na Universidade Católica do Salvador (UCSAL), cursando o 5º semestre. Já apliquei o que aprendi em projetos práticos com Java, Spring Boot e Python. Meu foco é evoluir como desenvolvedor backend, construindo soluções que resolvam problemas reais.
 
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
