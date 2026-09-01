@@ -1,6 +1,6 @@
 # <div align=center> Olá, eu sou Cristian Amorim</div>
 
-### **`Desenvolvedor Back-End`**
+### <div align=center> **`Desenvolvedor Back-End`**</div>
 
 Estudante de Análise e Desenvolvimento de Sistemas, na Universidade Católica do Salvador (Ucsal). Atualmente estou cursando o quinto semestre. Tenho como meta aprimorar meus conhecimentos em desenvolvimento de software, para resolver problemas através do mesmo.
 
